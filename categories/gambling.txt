@@ -1,40 +1,15 @@
 #
 # ╔═══════════════════════════════════════════════════════════════════════╗
-# ║                                                                       ║
-# ║   ███████╗██████╗ ███████╗██████╗ ██╗   ██╗███████╗████████╗███╗   ██╗║
-# ║   ██╔════╝██╔══██╗██╔════╝██╔══██╗██║   ██║██╔════╝╚══██╔══╝████╗  ██║║
-# ║   █████╗  ██████╔╝█████╗  ██████╔╝██║   ██║███████╗   ██║   ██╔██╗ ██║║
-# ║   ██╔══╝  ██╔══██╗██╔══╝  ██╔══██╗██║   ██║╚════██║   ██║   ██║╚██╗██║║
-# ║   ███████╗██║  ██║███████╗██████╔╝╚██████╔╝███████║   ██║   ██║ ╚████║║
-# ║   ╚══════╝╚═╝  ╚═╝╚══════╝╚═════╝  ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═══╝║
-# ║                                                                       ║
 # ║                    🛡️  DYNAMIC BLOCKLIST  🛡️                          ║
-# ║                                                                       ║
 # ╚═══════════════════════════════════════════════════════════════════════╝
 #
-# ┌─────────────────────────────────────────────────────────────────────────┐
-# │                           LIST METADATA                                 │
-# ├─────────────────────────────────────────────────────────────────────────┤
-# │  📋 Title      : ErebusTN Dynamic Blocklist                            │
-# │  🔖 Version    : 2026.01.16.2246                                       │
-# │  📊 Entries    : 194982                                                │
-# │  🕐 Modified   : 2026-01-16T22:46:25+00:00                             │
-# │  ⏰ Expires    : 30 minutes                                            │
-# │  👤 Maintainer : ErebusTN                                              │
-# └─────────────────────────────────────────────────────────────────────────┘
+# Version    : 2026.01.16.2342
+# Entries    : 194,998
+# Modified   : 2026-01-16T23:42:29+00:00
+# Expires    : 30 minutes
+# Maintainer : ErebusTN
+# Repository : https://github.com/EGen-V/PiHole-List
 #
-# ┌─────────────────────────────────────────────────────────────────────────┐
-# │                           CATEGORIES                                    │
-# ├─────────────────────────────────────────────────────────────────────────┤
-# │  🚫 spam         │  ⚠️  suspicious   │  📢 advertising                   │
-# │  📡 tracking     │  ☠️  malicious    │  🔞 porn                          │
-# │  🎰 gambling     │                   │                                   │
-# └─────────────────────────────────────────────────────────────────────────┘
-#
-# 💡 Usage: Add this URL to Pi-hole → Adlists → Update Gravity
-# 🔗 Repository: https://github.com/EGen-V/PiHole-List-Creator
-#
-# ═══════════════════════════════════════════════════════════════════════════
 0-car21-web-wwww0node-okta-beta-interactionwebapp.net.daraz.com
 0.0.0.0.creative.hpyrdr.com
 0.0.0.0.hpyrdr.com
@@ -697,6 +672,7 @@
 165337.com
 16565.hittail.com
 1659bet1659bet.com
+166bet.com.br
 166bet166.com
 166bet166bet.com
 166f.com
@@ -5087,6 +5063,7 @@
 6789live.com
 67903ec96c4073a5943213b9--lustrous-sherbet-afcaca.netlify.app
 679king.com
+67betapp.com
 67hokibet228.site
 67jokabet2133.com
 680.stats.misstrends.com
@@ -21037,6 +21014,7 @@ bcpzonasegurabeta.viabcp.ceramicasxliept.com
 bcpzonasegurabeta.viabcp.com.bolsosxgurtd.com
 bcpzonasegurabeta.viabcp.com.chemsbury.net
 bcpzonasegurabeta.viabcp.com.kirsti.nyc
+bcpzonasegurabeta.viabcp.com.pe.consultas-afp.john-burdett.com
 bcpzonasegurabeta.viabcp.com.telescreditosbpc.com
 bcpzonasegurabeta.viabcp.com.thephysiofix.com
 bcpzonasegurabeta.viabcp.sillacntu.com
@@ -36526,6 +36504,7 @@ casinogoldspin.fr
 casinogrande.de
 casinogranmadrid.es
 casinogreat.club
+casinogroup.fr
 casinogtbet-fr.fr
 casinogtbet.fr
 casinoguide.ws
@@ -52765,6 +52744,7 @@ eontarionow.us.intellitxt.com
 eooejsuewbetkpsuxqzzucdymc-dot-gloff849483.uk.r.appspot.com
 eoquetemprahj.com
 eorientalporn.com
+eosbetting.xyz
 eosnumquamunde.xyz
 ep3.t8cdn.com
 ep89.com
@@ -55718,6 +55698,7 @@ fatpass.com
 fatpcollection.com
 fatpichunter.com
 fatpicpost.com
+fatpirate-casino.fr
 fatpop.net
 fatporn.su
 fatporn.work
@@ -76002,6 +75983,7 @@ irunadeoca.eu
 irvirgins.deluxepass.com
 irwin-casino-zaryadkasamsung1.ru
 irwin-casino-zaryadkasamsung2.ru
+irwin2025.casino
 irwincasino.fr
 irwincasino77.top
 irxclip.com
@@ -79385,6 +79367,7 @@ kellyhampton.sexychaton.com
 kellymadisonmedia.com
 kelmorstad.info
 kemenyszex.hu
+kemo1.tibet.org
 kemono.party
 kemono.su
 kendalhughes.lindababes.com
@@ -81899,6 +81882,7 @@ leon-bet-kazino.tugaflix.info
 leon-bet-uz.com
 leon-bet.affise.com
 leon-bet.xyz
+leon-casino-online.fr
 leon-print.ru
 leon.bet
 leonbergery.com.pl
@@ -92159,6 +92143,7 @@ myfavsexcams.xxx
 myfirstanal.top
 myfirstpublic.com
 myfoodepic.com
+myforn.tibet.org
 myfreeblack.com
 myfreecams.com
 myfreedinner.com
@@ -105455,6 +105440,7 @@ pondokpoker.com
 ponhub.pro
 ponk10-beta.vercel.app
 ponlinefree.com
+ponori.tibet.org
 ponroug.com
 pontiacrom.homes
 pontiactimes.com
@@ -109221,6 +109207,7 @@ pow-leyton.com
 powaifinearts.org
 powebet.com
 powellsbooks.122.2o7.net
+power-lottery.online
 power.news
 power2xevexapp.com
 powerad.ai
@@ -112401,7 +112388,6 @@ rbet216.com
 rbet303.pro
 rbet471.com
 rbet789.pro
-rbetano.app
 rbeto.com
 rbgbq.sweetchicks.net
 rbk.netmng.com
@@ -113680,6 +113666,7 @@ retroxxxmovs.com
 retroxxxn.com
 retroxxxtube.com
 retroxxxvideo.com
+retrozino-casino.fr
 return.bs.domainnamesales.com
 return.domainnamesales.com
 return.uk.domainnamesales.com
@@ -139047,6 +139034,7 @@ velmoranix.cloud
 velmoranthix.store
 velmorravalley.cloud
 velo-bet.fr
+velobet-fr.fr
 velocdolab.world
 velocecdn.com
 velocidadluxten.com
@@ -139506,6 +139494,7 @@ vibetickets.fr
 vibetolo.gr
 vibetools.com
 vibetrace.com
+vibetron.sa.com
 vibetvbnb7766bvbb.godaddysites.com
 vibragame.net
 vibragame.org
@@ -144456,6 +144445,7 @@ winbet999.info
 winbet999.pro
 winbetaffiliates.bg
 winbetips.com
+winbetplaza.click
 winbets55.com
 winbetter.info
 winblackjack.net
@@ -189513,6 +189503,7 @@ xmom.su
 xmom.tv
 xmomsmovies.com
 xmomx.pro
+xmovi.tibet.org
 xmovie.pro
 xmovie.yachts
 xmovies-xnxx.com
