@@ -1,20 +1,7 @@
-# Ignore all Python scripts and config
-*.py
-config.json
-CONTEXT.md
-
 # Ignore logs and environment
 updater.log
 *.log
 .env
 .venv/
 __pycache__/
-
-# Ignore requirements (script-related)
-requirements.txt
-
-# Ignore seed list (internal use)
-list.txt
-
-# KEEP: All .txt blocklists in root and categories/
-# KEEP: README.md
+.DS_Store
