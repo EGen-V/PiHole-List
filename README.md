@@ -86,18 +86,6 @@ These lists aggregate and deduplicate domains from **100+ trusted sources** incl
 - **Deduplication** — Removes duplicates across all sources
 - **Whitelist Support** — Exclude domains and entire TLDs from blocking
 
-### Performance Optimized
-- **Parallel Processing** — Multi-threaded URL fetching for 10x faster updates
-- **Memory Efficient** — Handles millions of domains without excessive RAM usage
-- **Smart Splitting** — Large files automatically split to comply with GitHub's 100MB limit
-- **Change Detection** — Only commits when actual changes occur
-
-### Reliability & Monitoring
-- **Health Tracking** — Monitors source reliability and automatically removes persistently broken URLs
-- **Automatic Backups** — Keeps last 10 versions before each update
-- **Error Recovery** — Gracefully handles network failures and malformed data
-- **Progress Tracking** — Real-time progress bars and detailed logging
-
 ### Automation
 - **GitHub Actions** — Fully automated updates every 30 minutes
 - **README Auto-Update** — Statistics table updates automatically
