@@ -1,5 +1,9 @@
 # 🛡️ ErebusTN Pi-hole Blocklists
 
+[![Domain Count](https://img.shields.io/badge/domains-6M+-blue)](https://github.com/EGen-V/PiHole-List)
+[![Updated](https://img.shields.io/badge/updated-every%2030%20min-green)](https://github.com/EGen-V/PiHole-List)
+[![License](https://img.shields.io/badge/license-public%20domain-lightgrey)](https://github.com/EGen-V/PiHole-List)
+
 Curated DNS blocklists for Pi-hole, AdGuard Home, and other DNS-based ad blockers.
 
 ---
@@ -25,11 +29,11 @@ Curated DNS blocklists for Pi-hole, AdGuard Home, and other DNS-based ad blocker
 ### Pi-hole
 
 1. Go to **Group Management → Adlists**
-2. Add the raw URL:
+2. Add the raw URLs:
    ```
-   https://github.com/EGen-V/PiHole-List.git
+   https://raw.githubusercontent.com/EGen-V/PiHole-List/main/blacklist.txt.part1
+   https://raw.githubusercontent.com/EGen-V/PiHole-List/main/blacklist.txt.part2
    ```
-   > **Note:** If `blacklist.txt` is missing, it has been split into parts due to size limits (e.g., `blacklist.txt.part1`, `blacklist.txt.part2`). Add each part URL separately.
 
 3. Run **Tools → Update Gravity**
 
@@ -37,22 +41,33 @@ Curated DNS blocklists for Pi-hole, AdGuard Home, and other DNS-based ad blocker
 
 1. Go to **Filters → DNS blocklists**
 2. Click **Add blocklist → Add a custom list**
-3. Paste the raw URL above (or all part URLs if split)
+3. Add each part URL separately
 
 ---
 
 ## 📊 Sources
 
-These lists aggregate and deduplicate domains from 100+ trusted sources including:
+These lists aggregate and deduplicate domains from **100+ trusted sources** including:
 
-- **OISD** — Comprehensive mega-list
-- **Hagezi** — Pro and Ultimate lists
-- **StevenBlack** — Unified hosts
-- **Firebog** — Curated tick lists
-- **NextDNS** — Native tracking domains
-- **Developer Dan** — Ads and tracking extended
-- **Phishing.Database** — Active phishing domains
-- **BlocklistProject** — Category-specific lists
+| Source | Description |
+|--------|-------------|
+| [OISD](https://oisd.nl/) | Comprehensive mega-list |
+| [Hagezi](https://github.com/hagezi/dns-blocklists) | Pro, Ultimate, and Multi lists |
+| [StevenBlack](https://github.com/StevenBlack/hosts) | Unified hosts with extensions |
+| [Firebog](https://firebog.net/) | Curated tick lists |
+| [NextDNS](https://github.com/nextdns/metadata) | Native tracking domains |
+| [Developer Dan](https://www.github.developerdan.com/hosts/) | Ads and tracking extended |
+| [Phishing.Database](https://github.com/mitchellkrogza/Phishing.Database) | Active phishing domains |
+| [BlocklistProject](https://github.com/blocklistproject/Lists) | Category-specific lists |
+
+---
+
+## ⚡ Features
+
+- **Parallel Processing** — Multi-threaded URL fetching for fast updates
+- **Auto-Cleanup** — Broken URLs are automatically removed from seed list
+- **Smart Splitting** — Large files split to comply with GitHub limits
+- **Category-Based** — Domains organized by type (ads, tracking, malware, etc.)
 
 ---
 
