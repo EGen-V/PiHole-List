@@ -299,7 +299,7 @@
     "sources": []
   },
   "git": {
-    "enabled": false,
+    "enabled": true,
     "repo_path": ".",
     "remote": "origin",
     "branch": "main"

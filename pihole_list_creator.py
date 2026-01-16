@@ -1184,6 +1184,25 @@ def main() -> None:
             # Update README
             update_readme_stats(bl_stats + cat_stats, "README.md", logger)
             
+            # Git Commit & Push
+            git_cfg = config.get("git", {})
+            if git_cfg.get("enabled", False):
+                now = _utc_now()
+                version = _version_stamp(now)
+                # Calculate total stats for the commit message
+                total_added = len(added)
+                total_removed = len(removed)
+                
+                msg = f"Update blacklist {version} (+{total_added}/-{total_removed})"
+                
+                git_commit_and_push(
+                    repo_path=str(git_cfg.get("repo_path", ".")),
+                    message=msg,
+                    remote=str(git_cfg.get("remote", "origin")),
+                    branch=str(git_cfg.get("branch", "main")),
+                    logger=logger,
+                )
+            
             logger.info("One-shot generation complete")
         else:
             logger.info("TEST MODE: Skipped writing output files")
