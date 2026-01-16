@@ -5,3 +5,8 @@ updater.log
 .venv/
 __pycache__/
 .DS_Store
+*.py
+*.json
+requirements.txt
+pihole_list_creator.py
+config.json
