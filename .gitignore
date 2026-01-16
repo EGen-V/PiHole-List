@@ -5,8 +5,16 @@ updater.log
 .venv/
 __pycache__/
 .DS_Store
-*.py
-*.json
-requirements.txt
-pihole_list_creator.py
+
+# Ignore the large blacklist file (it is split into parts)
+blacklist.txt
+
+# Ignore project files
 config.json
+CONTEXT.md
+requirements.txt
+list.txt
+README.md
+categories/
+*.py
+.gitignore
