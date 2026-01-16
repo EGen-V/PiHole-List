@@ -12,15 +12,15 @@ Curated DNS blocklists for Pi-hole, AdGuard Home, and other DNS-based ad blocker
 
 | File | Description | Domains | Size |
 |------|-------------|---------|------|
-| [`blacklist.txt.part1`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/blacklist.txt.part1) | **Master list** — All domains combined (Part 1) | 3,820,804 | 90.00 MB |
-| [`blacklist.txt.part2`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/blacklist.txt.part2) | **Master list** — All domains combined (Part 2) | 2,373,327 | 55.02 MB |
-| [`categories/spam.txt`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/categories/spam.txt) | Email spam, referrer spam | 87,709 | 1.45 MB |
-| [`categories/suspicious.txt`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/categories/suspicious.txt) | Heuristically flagged domains | 1,536,633 | 32.79 MB |
-| [`categories/advertising.txt`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/categories/advertising.txt) | Ads, banners, ad networks | 629,151 | 14.68 MB |
-| [`categories/tracking.txt`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/categories/tracking.txt) | Analytics, telemetry, Smart TV trackers | 749,243 | 19.49 MB |
-| [`categories/malicious.txt`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/categories/malicious.txt) | Malware, phishing, scams | 1,671,934 | 38.76 MB |
-| [`categories/porn.txt`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/categories/porn.txt) | Adult content | 2,501,095 | 60.80 MB |
-| [`categories/gambling.txt`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/categories/gambling.txt) | Casinos, betting sites | 194,988 | 3.60 MB |
+| [`blacklist.txt.part1`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/blacklist.txt.part1) | **Master list** — All domains combined (Part 1) | 3,820,130 | 90.00 MB |
+| [`blacklist.txt.part2`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/blacklist.txt.part2) | **Master list** — All domains combined (Part 2) | 2,370,030 | 54.93 MB |
+| [`categories/spam.txt`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/categories/spam.txt) | Email spam, referrer spam | 87,705 | 1.45 MB |
+| [`categories/suspicious.txt`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/categories/suspicious.txt) | Heuristically flagged domains | 1,532,315 | 32.71 MB |
+| [`categories/advertising.txt`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/categories/advertising.txt) | Ads, banners, ad networks | 628,685 | 14.67 MB |
+| [`categories/tracking.txt`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/categories/tracking.txt) | Analytics, telemetry, Smart TV trackers | 748,607 | 19.47 MB |
+| [`categories/malicious.txt`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/categories/malicious.txt) | Malware, phishing, scams | 1,671,931 | 38.76 MB |
+| [`categories/porn.txt`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/categories/porn.txt) | Adult content | 2,501,058 | 60.80 MB |
+| [`categories/gambling.txt`](https://raw.githubusercontent.com/EGen-V/PiHole-List/main/categories/gambling.txt) | Casinos, betting sites | 194,982 | 3.60 MB |
 
 
 ---
