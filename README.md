@@ -27,7 +27,7 @@ Curated DNS blocklists for Pi-hole, AdGuard Home, and other DNS-based ad blocker
 1. Go to **Group Management → Adlists**
 2. Add the raw URL:
    ```
-   https://raw.githubusercontent.com/EGen-V/PiHole-List-Creator/main/blacklist.txt
+   https://github.com/EGen-V/PiHole-List.git
    ```
    > **Note:** If `blacklist.txt` is missing, it has been split into parts due to size limits (e.g., `blacklist.txt.part1`, `blacklist.txt.part2`). Add each part URL separately.
 
@@ -68,5 +68,5 @@ Public domain. Use freely.
 
 ---
 
-**Maintainer:** [ErebusTN](https://github.com/ErebusTN)  
+**Maintainer:** [ErebusTN](https://github.com/EGen-V)  
 **Last Update:** January 2026
